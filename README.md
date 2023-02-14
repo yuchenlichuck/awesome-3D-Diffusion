@@ -251,6 +251,12 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2211.09869)] [[Github](https://github
 arXiv 2022. [[Paper](https://arxiv.org/abs/2211.07600)] [[Github](https://github.com/eladrich/latent-nerf)] \
 14 Nov 2022
 
+**Magic3D: High-Resolution Text-to-3D Content Creation** \
+*Gal Metzer<sup>1</sup>, Elad Richardson<sup>1</sup>, Or Patashnik, Raja Giryes, Daniel Cohen-Or* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2211.10440)] \
+11 Nov 2022
+
+
 **ReFu: Refine and Fuse the Unobserved View for Detail-Preserving Single-Image 3D Human Reconstruction** \
 *Gyumin Shim<sup>1</sup>, Minsoo Lee<sup>1</sup>, Jaegul Choo* \
 ACM 2022. [[Paper](https://arxiv.org/abs/2211.04753)] \
