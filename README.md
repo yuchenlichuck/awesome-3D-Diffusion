@@ -3,6 +3,12 @@ This is the first 3D Diffusion repository in github. I will share with you the n
 
 
 ### 3D Vision
+**MeshDiffusion: Score-based Generative 3D Mesh Modeling** \
+*Zhen Liu, Yao Feng, Michael J. Black, Derek Nowrouzezahrai, Liam Paull, Weiyang Liu* \
+ICLR 2023. [[Paper](https://arxiv.org/abs/2302.03665)] [[Project](meshdiffusion.github.io)] [[Github](https://github.com/lzzcd001/MeshDiffusion] \
+7 Feb 2023
+
+
 
 **HumanMAC: Masked Motion Completion for Human Motion Prediction** \
 *Ling-Hao Chen, Jiawei Zhang, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang Liu* \
