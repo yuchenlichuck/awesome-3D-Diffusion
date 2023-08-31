@@ -11,13 +11,14 @@ This is the first 3D Diffusion repository in github. I will share with you the n
   Your browser does not support the video tag.
 </video>
 
+https://dreamfusion-cdn.ajayj.com/sept28/wipe_opposite_6x4_smoothstep.mp4
 
 <video width="640" height="320" controls>
   <source src="https://research.nvidia.com/labs/dir/magic3d/assets/video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-
+https://research.nvidia.com/labs/dir/magic3d/assets/video.mp4
 
 
 <p align="center">
@@ -32,7 +33,17 @@ This is the first 3D Diffusion repository in github. I will share with you the n
 Li C, Zhang C, Waghwase A, et al. Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era[J]. arXiv preprint arXiv:2305.06131, 2023.
 
 
+
 ### Text to 3D (General)
+**DreamFusion: Text-to-3D using 2D Diffusion**
+*Ben Poole, Ajay Jain, Jonathan T. Barron, Ben Mildenhall*
+ICLR 2023. [[paper](https://arxiv.org/abs/2209.14988)] [[Project](https://dreamfusion3d.github.io/)][[Github]()]
+
+**Magic3D: High-Resolution Text-to-3D Content Creation**
+
+*Chen-Hsuan Lin and Jun Gao and Luming Tang and Towaki Takikawa and Xiaohui Zeng and Xun Huang and Karsten Kreis and Sanja Fidler and Ming-Yu Liu and Tsung-Yi Lin*
+
+CVPR 2023 [[paper](https://arxiv.org/abs/2211.10440)]  [[Project](https://research.nvidia.com/labs/dir/magic3d/)]
 
 
 
@@ -41,6 +52,8 @@ Li C, Zhang C, Waghwase A, et al. Generative AI meets 3D: A Survey on Text-to-3D
 *Zhen Liu, Yao Feng, Michael J. Black, Derek Nowrouzezahrai, Liam Paull, Weiyang Liu* \
 ICLR 2023. [[Paper](https://arxiv.org/abs/2302.03665)] [[Project](meshdiffusion.github.io)] [[Github](https://github.com/lzzcd001/MeshDiffusion)] \
 7 Feb 2023
+
+ICLR 2023. [[paper](https://arxiv.org/abs/2209.14988)] [[Project](https://dreamfusion3d.github.io/)][[Github]()]
 
 
 
