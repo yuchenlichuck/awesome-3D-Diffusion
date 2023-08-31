@@ -1,10 +1,10 @@
 # awesome-3D-Diffusion
 This is the first 3D Diffusion repository in github. I will share with you the new technology in 3D Diffusion area, including:
-### Text to 3D (General)
-### Text Guided 3D Avatar Generation
-### Text Guided 3D Texture Generation
-### Text Guided 3D Scene Generation
-### Text Guided 3D Shape Transformation
+### [Text to 3D (General)](#General)
+### [Text Guided 3D Avatar Generation](#Avatar)
+### [Text Guided 3D Texture Generation](#Texture)
+### [Text Guided 3D Scene Generation](#Scene)
+### [Text Guided 3D Shape Transformation](#Shape)
 
 <video width="640" height="320" controls>
   <source src="https://dreamfusion-cdn.ajayj.com/sept28/wipe_opposite_6x4_smoothstep.mp4" type="video/mp4">
@@ -33,8 +33,10 @@ https://research.nvidia.com/labs/dir/magic3d/assets/video.mp4
 Li C, Zhang C, Waghwase A, et al. Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era[J]. arXiv preprint arXiv:2305.06131, 2023.
 
 
-
+<a name="General"></a>
 ### Text to 3D (General)
+
+
 **DreamFusion: Text-to-3D using 2D Diffusion**
 *Ben Poole, Ajay Jain, Jonathan T. Barron, Ben Mildenhall*
 ICLR 2023. 
@@ -48,8 +50,6 @@ ICLR 2023.
 CVPR 2023 [[paper](https://arxiv.org/abs/2211.10440)]  [[Project](https://research.nvidia.com/labs/dir/magic3d/)]
 
 
-
-
 **MeshDiffusion: Score-based Generative 3D Mesh Modeling** \
 *Zhen Liu, Yao Feng, Michael J. Black, Derek Nowrouzezahrai, Liam Paull, Weiyang Liu* \
 ICLR 2023. [[Paper](https://arxiv.org/abs/2302.03665)] [[Project](meshdiffusion.github.io)] [[Github](https://github.com/lzzcd001/MeshDiffusion)] \
@@ -58,22 +58,19 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2302.03665)] [[Project](meshdiffusion.
 ICLR 2023. [[paper](https://arxiv.org/abs/2209.14988)] [[Project](https://dreamfusion3d.github.io/)][[Github]()]
 
 
-
-**HumanMAC: Masked Motion Completion for Human Motion Prediction** \
-*Ling-Hao Chen, Jiawei Zhang, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang Liu* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2302.03665)] [[Project](https://lhchen.top/Human-MAC/)] [[Github](https://github.com/LinghaoChan/HumanMAC)] \
-7 Feb 2023
+<a name="Texture"></a>
+### Text Guided 3D Texture Generation
 
 **TEXTure: Text-Guided Texturing of 3D Shapes** \
 *Elad Richardson<sup>1</sup>, Gal Metzer<sup>1</sup>, Yuval Alaluf, Raja Giryes, Daniel Cohen-Or* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.01721)] [[Project](https://texturepaper.github.io/TEXTurePaper/)] [[Github](https://github.com/TEXTurePaper/TEXTurePaper)] \
 3 Feb 2023
 
+<a name="Scene"></a>
+### Text Guided 3D Scene Generation
 
-**DisDiff: Unsupervised Disentanglement of Diffusion Probabilistic Models** \
-*Tao Yang, Yuwang Wang, Yan Lv, Nanning Zheng* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2301.13721)] \
-31 Jan 2023
+<a name="Shape"></a>
+### Text Guided 3D Shape Transformation
 
 **Zero3D: Semantic-Driven Multi-Category 3D Shape Generation** \
 *Bo Han, Yitong Liu, Yixuan Shen* \
