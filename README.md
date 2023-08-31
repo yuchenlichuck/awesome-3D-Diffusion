@@ -1,8 +1,42 @@
 # awesome-3D-Diffusion
-This is the first 3D Diffusion repository in github. I will share with you the new technology in 3D Diffusion area.
+This is the first 3D Diffusion repository in github. I will share with you the new technology in 3D Diffusion area, including:
+### Text to 3D (General)
+### Text Guided 3D Avatar Generation
+### Text Guided 3D Texture Generation
+### Text Guided 3D Scene Generation
+### Text Guided 3D Shape Transformation
+
+<video width="640" height="320" controls>
+  <source src="https://dreamfusion-cdn.ajayj.com/sept28/wipe_opposite_6x4_smoothstep.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
-### 3D Vision
+<video width="640" height="320" controls>
+  <source src="https://research.nvidia.com/labs/dir/magic3d/assets/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
+
+<p align="center">
+(Source: <a href="https://dreamfusion3d.github.io/">DreamFusion</a>, <a href="https://research.nvidia.com/labs/dir/magic3d/">Magic3D</a>.)
+</p>
+
+
+### Survey 
+
+**Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era** \
+
+Li C, Zhang C, Waghwase A, et al. Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era[J]. arXiv preprint arXiv:2305.06131, 2023.
+
+
+### Text to 3D (General)
+
+
+
+
 **MeshDiffusion: Score-based Generative 3D Mesh Modeling** \
 *Zhen Liu, Yao Feng, Michael J. Black, Derek Nowrouzezahrai, Liam Paull, Weiyang Liu* \
 ICLR 2023. [[Paper](https://arxiv.org/abs/2302.03665)] [[Project](meshdiffusion.github.io)] [[Github](https://github.com/lzzcd001/MeshDiffusion)] \
