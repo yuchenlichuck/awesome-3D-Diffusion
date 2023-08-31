@@ -37,7 +37,9 @@ Li C, Zhang C, Waghwase A, et al. Generative AI meets 3D: A Survey on Text-to-3D
 ### Text to 3D (General)
 **DreamFusion: Text-to-3D using 2D Diffusion**
 *Ben Poole, Ajay Jain, Jonathan T. Barron, Ben Mildenhall*
-ICLR 2023. [[paper](https://arxiv.org/abs/2209.14988)] [[Project](https://dreamfusion3d.github.io/)][[Github]()]
+ICLR 2023. 
+
+[[paper](https://arxiv.org/abs/2209.14988)] [[Project](https://dreamfusion3d.github.io/)][[Github](https://github.com/ashawkey/stable-dreamfusion)]
 
 **Magic3D: High-Resolution Text-to-3D Content Creation**
 
